@@ -1,0 +1,5 @@
+{
+  "name": "Library Poster Generator",
+  "description": "A tool for creating monthly library display posters with random styles and image exports.",
+  "requestFramePermissions": []
+}
